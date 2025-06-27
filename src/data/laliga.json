@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta local Alaves 2024/25",
+    "price": 24.99,
+    "image": "/images/alaves/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 2,
+    "name": "Camiseta visitante Alaves 2024/25",
+    "price": 24.99,
+    "image": "/images/alaves/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 3,
+    "name": "Camiseta local Athletic Club 2025/26",
+    "price": 24.99,
+    "image": "/images/athletic-club/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 4,
+    "name": "Camiseta visitante Athletic Club 2025/26",
+    "price": 24.99,
+    "image": "/images/athletic-club/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 5,
+    "name": "Camiseta local Atletico de Madrid 2025/26",
+    "price": 24.99,
+    "image": "/images/atletico-de-madrid/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 6,
+    "name": "Camiseta visitante Atletico de Madrid 2025/26",
+    "price": 24.99,
+    "image": "/images/atletico-de-madrid/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 7,
+    "name": "Camiseta local Barcelona 2025/26",
+    "price": 24.99,
+    "image": "/images/barcelona/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 8,
+    "name": "Camiseta visitante Barcelona 2025/26",
+    "price": 24.99,
+    "image": "/images/barcelona/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 9,
+    "name": "Camiseta local Cadiz 2025/26",
+    "price": 24.99,
+    "image": "/images/cadiz/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 10,
+    "name": "Camiseta visitante Cadiz 2025/26",
+    "price": 24.99,
+    "image": "/images/cadiz/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 11,
+    "name": "Camiseta local Celta de Vigo 2025/26",
+    "price": 24.99,
+    "image": "/images/celta-de-vigo/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 12,
+    "name": "Camiseta especial Celta de Vigo 2025/26",
+    "price": 24.99,
+    "image": "/images/celta-de-vigo/Special.jpg",
+    "category": "especial"
+  },
+  {
+    "id": 13,
+    "name": "Camiseta local Getafe 2025/26",
+    "price": 24.99,
+    "image": "/images/getafe/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 14,
+    "name": "Camiseta visitante Getafe 2025/26",
+    "price": 24.99,
+    "image": "/images/getafe/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 15,
+    "name": "Camiseta local Girona 2025/26",
+    "price": 24.99,
+    "image": "/images/girona/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 16,
+    "name": "Camiseta visitante Girona 2025/26",
+    "price": 24.99,
+    "image": "/images/girona/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 17,
+    "name": "Camiseta local Granada 2024/25",
+    "price": 24.99,
+    "image": "/images/granada/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 18,
+    "name": "Camiseta visitante Granada 2024/25",
+    "price": 24.99,
+    "image": "/images/granada/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 19,
+    "name": "Camiseta local Las Palmas 2024/25",
+    "price": 24.99,
+    "image": "/images/las-palmas/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 20,
+    "name": "Camiseta visitante Las Palmas 2024/25",
+    "price": 24.99,
+    "image": "/images/las-palmas/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 21,
+    "name": "Camiseta local Mallorca 2024/25",
+    "price": 24.99,
+    "image": "/images/mallorca/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 22,
+    "name": "Camiseta tercera visitante Mallorca 2024/25",
+    "price": 24.99,
+    "image": "/images/mallorca/Tercera.jpg",
+    "category": "retro"
+  },
+  {
+    "id": 23,
+    "name": "Camiseta local Osasuna 2025/26",
+    "price": 24.99,
+    "image": "/images/osasuna/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 24,
+    "name": "Camiseta visitante Osasuna 2024/25",
+    "price": 24.99,
+    "image": "/images/osasuna/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 25,
+    "name": "Camiseta local Rayo Vallecano 2025/26",
+    "price": 24.99,
+    "image": "/images/rayo-vallecano/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 26,
+    "name": "Camiseta visitante Rayo Vallecano 2025/26",
+    "price": 24.99,
+    "image": "/images/rayo-vallecano/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 27,
+    "name": "Camiseta local Real Betis 2025/26",
+    "price": 24.99,
+    "image": "/images/real-betis/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 28,
+    "name": "Camiseta visitante Real Betis 2024/25",
+    "price": 24.99,
+    "image": "/images/real-betis/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 29,
+    "name": "Camiseta local Real Madrid 2025/26",
+    "price": 24.99,
+    "image": "/images/real-madrid/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 30,
+    "name": "Camiseta visitante Real Madrid 2025/26",
+    "price": 24.99,
+    "image": "/images/real-madrid/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 31,
+    "name": "Camiseta local Real Sociedad 2024/25",
+    "price": 24.99,
+    "image": "/images/real-sociedad/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 32,
+    "name": "Camiseta visitante Real Sociedad 2024/25",
+    "price": 24.99,
+    "image": "/images/real-sociedad/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 33,
+    "name": "Camiseta local Sevilla 2024/25",
+    "price": 24.99,
+    "image": "/images/sevilla/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 34,
+    "name": "Camiseta visitante Sevilla 2024/25",
+    "price": 24.99,
+    "image": "/images/sevilla/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 35,
+    "name": "Camiseta local Valencia 2025/26",
+    "price": 24.99,
+    "image": "/images/valencia/Local2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 36,
+    "name": "Camiseta visitante Valencia 2025/26",
+    "price": 24.99,
+    "image": "/images/valencia/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 37,
+    "name": "Camiseta local Valladolid 2024/25",
+    "price": 24.99,
+    "image": "/images/valladolid/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 38,
+    "name": "Camiseta visitante Valladolid 2024/25",
+    "price": 24.99,
+    "image": "/images/valladolid/Visitante2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 39,
+    "name": "Camiseta local Villarreal 2024/25",
+    "price": 24.99,
+    "image": "/images/villarreal/Local2425.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 40,
+    "name": "Camiseta visitante Villarreal 2025/26",
+    "price": 24.99,
+    "image": "/images/villarreal/Visitante2526.jpg",
+    "category": "laliga"
+  },
+  {
+    "id": 41,
+    "name": "Camiseta local Real Oviedo 2025/26",
+    "price": 24.99,
+    "image": "/images/real-oviedo/Local2526.jpg",
+    "category": "laliga"
+  }
+]
